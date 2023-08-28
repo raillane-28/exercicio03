@@ -8,4 +8,4 @@ const array = {
         console.log(this.numerosUm);
     }
 };
-array.metodo
+array.metodo()
